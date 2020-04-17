@@ -21,12 +21,15 @@ div {
 
 #launchStatusCheck {
     background-color: #ECF0F1;
+
     text-align: center;
     margin: 50px auto;
     width: 50%;
     border: 3px solid black;
     padding: 10px;
 }
+
+
 
 #missionTarget img {
     max-width: 40%;
